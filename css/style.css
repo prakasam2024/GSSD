@@ -17,7 +17,7 @@ button.normal{
     padding: 15px 30px;
     color: #1a1a1a;
     background: rgb(207, 218, 112);
-    border-radius: 20px;
+    border-radius: 5px;
     cursor: pointer;
     border: none;
     outline: none;
@@ -409,11 +409,14 @@ h6{
     border-radius: 4px;
     outline: none;
     border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
 
 }
 #newsletter button{
     background-color: #088178;
     color: #fff;
     white-space: nowrap;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
 }
 
