@@ -379,17 +379,19 @@ h6{
     /**background-image: url(../img/bg6.avif); **/
     background-repeat: no-repeat;
     background-position: 20% 30%;
-    background-color: #1a1a1a;
+    background-color: #054691;
 }
 #newsletter h4{
     font-size: 22px;
     font-weight: 700;
     color: #fff;
+    text-transform: uppercase;
 }
 #newsletter p{
     font-size: 22px;
     font-weight: 600;
     color:#818ea0;
+    text-transform: uppercase;
 }
 #newsletter p span{
     color: #e2c311;
